@@ -20,6 +20,19 @@ The primary motivation behind building this project was to offer a practical too
 ## Problem and Solution
 The project addresses the need for an interactive, timed quiz that enables students to test their understanding of JavaScript concepts in a structured manner. It offers a solution by presenting multiple-choice questions, initiating a timer, and allowing users to save and compare their scores.
 
+  ### Problems Solved:
+  - **Creation of Quiz Interface:** The script dynamically generates a quiz interface by displaying questions and multiple-choice options for users.
+  - **Timer Functionality:** It implements a timer that starts when the quiz begins and subtracts time for incorrect answers.
+  - **Score Calculation:** Tracks and updates the score based on the user's correct answers.
+  - **High Score Storage:** Allows users to enter their initials to save their score, displaying it in a high scores list.
+  - **Dynamic Interface Updates:** Presents the next question after answering and hides/display elements based on quiz progress.
+
+  ### Solutions Implemented:
+  - **Dynamic Question Display:** The `showQuestion()` function sets up the question text and answer options dynamically.
+  - **Event Handling:** Utilizes event listeners for buttons (`startButton`, `nextButton`, `optionButton`) to trigger specific actions (start quiz, move to the next question, check the selected answer).
+  - **Timer Management:** Incorporates a timer using `setInterval()` to update and display the remaining time, ending the quiz when the timer reaches 0.
+  - **Quiz Completion Handling:** Manages the completion of the quiz by displaying the final score and providing the option to restart the quiz.
+
 ## Technologies Used
 The project was developed using:
 - HTML
