@@ -57,3 +57,10 @@ https://p-iacone88.github.io/JavaScript-Quiz/
 
 ## Screenshots
 
+<img width="1421" alt="Screenshot 2023-11-30 at 4 19 42 PM" src="https://github.com/p-iacone88/JavaScript-Quiz/assets/50248763/ea93325c-28e1-4a24-9f11-f43ecc8bcedf">
+
+<img width="1429" alt="Screenshot 2023-11-30 at 4 19 54 PM" src="https://github.com/p-iacone88/JavaScript-Quiz/assets/50248763/17f12430-5fae-487f-9bc2-cb35caa97f4e">
+
+<img width="1424" alt="Screenshot 2023-11-30 at 4 20 12 PM" src="https://github.com/p-iacone88/JavaScript-Quiz/assets/50248763/f3314cfb-6278-4e7f-8c63-bbc1b69de74d">
+
+<img width="1429" alt="Screenshot 2023-11-30 at 4 21 08 PM" src="https://github.com/p-iacone88/JavaScript-Quiz/assets/50248763/e955e250-df19-442f-bc8c-22ef8f3a1e75">
